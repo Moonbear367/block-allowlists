@@ -1,5 +1,5 @@
 #This is a doman allow list
-#Info was gathered from microsoft recomend allow list: https://learn.microsoft.com/en-us/azure/devops/organizations/security/allow-list-ip-url?view=azure-devops&tabs=IP-V4
+#Info was gathered from microsoft recomended allow list: https://learn.microsoft.com/en-us/azure/devops/organizations/security/allow-list-ip-url?view=azure-devops&tabs=IP-V4
 
 *.cloud.microsoft
 *.static.microsoft
