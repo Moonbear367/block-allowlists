@@ -157,5 +157,4 @@ cdn.uci.officeapps.live.com
 *.cloud.microsoft
 *.static.microsoft
 *.usercontent.microsoft
-management.azure.com
-*.azure.com
+main.iam.ad.ext.azure.com
