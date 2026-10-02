@@ -1,1 +1,1 @@
-This a list for pi-hole as to allow all microsofter services access to...everything
+This a allow list for pi-hole for all microsoft recomended services
