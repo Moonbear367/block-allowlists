@@ -1,1 +1,1 @@
-This a allow list for pi-hole for all microsoft recomended services
+This is a private repositorey for regex and doman allow & deniy lists for DSN black and white listing 
